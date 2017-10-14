@@ -20,7 +20,6 @@ Good luck!
 
 import krpc
 import time
-import logging
 import time
 import math
 
