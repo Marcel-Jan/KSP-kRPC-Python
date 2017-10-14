@@ -11,9 +11,9 @@ To run this KSP kRPC Python program you need:
 - I've also installed the Python client library (https://pypi.python.org/pypi/krpc)
 - Python 2.7 or 3.4. Tested in Python 3.4 though
 
-When installed, install the .craft file (Selflanding First Stage 5R.craft or Selflanding First Stage 5R-1.craft).
+When installed, install the .craft file (Falkon-5A.craft).
 Go to the directory with this program, start Python command line and run:
-execfile('kRPC_autoland1ststage_5engine_03.py')
+execfile('kRPC_falkon5_01.py')
 
 Good luck!
 """
