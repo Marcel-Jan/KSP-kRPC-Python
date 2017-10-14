@@ -64,11 +64,11 @@ print("target_apoapsis: " + str(target_apoapsis))
 ascent_trajectory = {1: [1000, 90, island_heading, 100],
 					 2: [6000, 85, island_heading, 85],
 					 3: [7500, 80, island_heading, 85],
-					 3: [9000, 75, island_heading, 85],
-					 4: [13000, 70, island_heading, 80],
-					 5: [19000, 60, island_heading, 70],
-					 6: [25000, 50, island_heading, 60],
-					 7: [33000, 45, island_heading, 50]}
+					 4: [9000, 75, island_heading, 85],
+					 5: [13000, 70, island_heading, 80],
+					 6: [19000, 60, island_heading, 70],
+					 7: [25000, 50, island_heading, 60],
+					 8: [33000, 45, island_heading, 50]}
 
 print("Trajectory program")
 for step, params in ascent_trajectory.items():
