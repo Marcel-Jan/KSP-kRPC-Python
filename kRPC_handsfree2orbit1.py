@@ -171,6 +171,6 @@ while vessel.orbit.periapsis_altitude < target_periapsis:
 vessel.control.throttle = 0
 
 # And... we're in orbit.. hopefully.
-text.content = 'Welcome in orbit!'
-print('Welcome in orbit!')
+text.content = 'Welcome to orbit!'
+print('Welcome to orbit!')
 
